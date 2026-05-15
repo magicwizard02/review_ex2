@@ -7,7 +7,9 @@
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-    
+
+    <img width="1370" height="458" alt="Screenshot 2026-05-15 at 11 15 51 AM" src="https://github.com/user-attachments/assets/4f22a97f-4bd3-4571-9684-63d0bb32bee4" />
+
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭을 왜 핵심적이라고 생각하는지 확인
@@ -41,9 +43,9 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-<img width="1370" height="458" alt="Screenshot 2026-05-15 at 11 15 51 AM" src="https://github.com/user-attachments/assets/f47e4d33-45b6-4a20-8bfb-eaa61f1b6018" />
+<img width="663" height="227" alt="Screenshot 2026-05-15 at 11 16 42 AM" src="https://github.com/user-attachments/assets/c333252e-3dc5-4b48-80e4-632d641976f9" />
 
-    ![Uploading Screenshot 2026-05-15 at 11.16.42 AM.png…]()
+
 
 # 회고(참고 링크 및 코드 개선)
 짧은 시간 내에 진행했다고 믿기지 않을 정도로 짜임새 있고 자세한 ablation study를 진행하셨습니다. Activation map으로 결과를 시각화하고, 직접 input을 넣어 번역의 정성적 평가까지 수행한 점이 특히 인상 깊었습니다. 또한 beam search와 같은 새로운 approach를 시도하신 점도 좋았습니다. 결과값에 대한 해석뿐 아니라 greedy decoding과 beam search의 차이가 크지 않은 이유 등 다른 방법들과의 비교 분석도 꼼꼼하게 진행하셨습니다. 수고 많으셨습니다!
